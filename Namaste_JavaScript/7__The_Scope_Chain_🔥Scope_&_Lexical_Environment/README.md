@@ -129,4 +129,4 @@ function a().
 
 - Going and Searching in the parent's local memory is also known as ```going to the next level of scope chain```. 
 
-- This 
+- This whole chain of lexical environment is known as the Scope Chain.

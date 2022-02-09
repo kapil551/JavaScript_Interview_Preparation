@@ -14,7 +14,7 @@
 
 - ```Syntax```Error vs ```Reference```Error vs ```Type```Error?
 
-### Yes, ````let & const``` decalaration are ```hoisted```:
+### Yes, ```let & const``` decalaration are ```hoisted```:
 
 - ```let & const``` declarations are hoisted, but they are hoisted very differently to the ```var``` declaration. 
 
